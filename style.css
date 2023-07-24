@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    width: 50%;
+    max-width: 500px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: rgba(171, 202, 196, 0.694);
+}
+.box{
+   position: absolute;
+   top: 30%;
+   right: 35%;
+   border-radius: 5px;
+
+
+}
